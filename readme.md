@@ -24,3 +24,8 @@ npm start
 
 -   Version 1.0.0
 -   License: MIT
+
+
+## Screenshot of REST api 
+
+![screencapture-localhost-5000-2021-03-18-21_33_02](https://user-images.githubusercontent.com/65853604/111658791-ae5ced00-8832-11eb-8fde-e302234c67c1.png)
